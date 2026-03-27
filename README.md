@@ -42,9 +42,10 @@ Aula Digital centraliza esa gestión en una app simple, mejorando la organizaci�
 
 ## 📱 Capturas
 
-![Inicio](screenshots/home.png)
-![Alumnos](screenshots/alumnos.png)
-![Meriendas](screenshots/meriendas.png)
+![Inicio](screenshots/home.jpg)
+![Bitácora](screenshots/bitacora.jpg)
+![Entrevistas](screenshots/entrevista.jpg)
+![Meriendas](screenshots/merienda.jpg)
 
 ---
 
